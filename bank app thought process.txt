@@ -1,0 +1,13 @@
+BANK APP THOUGHT PROCESS
+
+MAIN PURPOSE OF OUR BANK IS:
+
+1. TRANSFER MONEY
+2. DEPOSIT MONEY
+3. CHECK BALANCE
+4. GET ALERTS
+5. RECIEPT
+
+Step 1: Welcome users to our bank
+
+Step 2: Implement a registration system
