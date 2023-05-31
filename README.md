@@ -1,8 +1,9 @@
-# MyBank
+# mybank
 
 MyBank is a simple banking application implemented in C. It provides basic banking functionalities such as creating an account, transferring money, depositing money, checking the account balance, and generating transaction receipts.
 
-![live webinar instagram post  (1)](https://github.com/BrightDaniel/hh/assets/107191784/2953f359-753b-46b0-9b34-0ed254688b75)
+![blue modern business presentation (1)_page-0001](https://github.com/BrightDaniel/mybank/assets/107191784/55c3c0ce-15a6-457d-9cf7-b7f2dca0eadd)
+
 
 
 ## Prerequisites
@@ -75,7 +76,7 @@ git push origin feature/my-new-feature
 
 ## Author
 
-MyBank is developed and maintained by [Your Name](https://github.com/your-username).
+MyBank is developed and maintained by [Bwave ICT](https://github.com/brightdaniel).
 
 ## License
 
