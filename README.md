@@ -76,7 +76,7 @@ git push origin feature/my-new-feature
 
 ## Author
 
-MyBank is developed and maintained by [Bwave ICT](https://github.com/brightdaniel).
+MyBank is developed and maintained by [ARIYIBI AYO](https://github.com/ARIBZ).
 
 ## License
 
@@ -88,4 +88,4 @@ The implementation of MyBank was inspired by the need for a simple banking appli
 
 ## Support
 
-If you have any questions, suggestions, or encounter any issues while using MyBank, please feel free to [open an issue](https://github.com/your-username/mybank/issues). Your feedback is highly appreciated!
+If you have any questions, suggestions, or encounter any issues while using MyBank, please feel free to [open an issue](https://github.com/ARIBZ/mybank/issues). Your feedback is highly appreciated!
